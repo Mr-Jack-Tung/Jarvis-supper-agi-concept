@@ -1,1 +1,1 @@
-# Jarvis-supper-agi-concept
+# Jarvis Supper AGI - concept & planing
