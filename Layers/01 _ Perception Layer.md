@@ -68,7 +68,7 @@ Những khối chức năng này có thể được tối ưu hóa và mở rộ
 ### Sơ đồ quan hệ giữa các khối chức năng
 
 Dưới đây là sơ đồ quan hệ giữa các khối chức năng trong Tầng Nhận Thức (Perception Layer), bao gồm cả các khối bổ sung, được mô tả bằng giao diện text:
-
+```
 +--------------------------------------------------------+
 |               Tầng Nhận Thức (Perception Layer)        |
 +--------------------------------------------------------+
@@ -103,7 +103,7 @@ Dưới đây là sơ đồ quan hệ giữa các khối chức năng trong Tầ
 |    | (Nhận thức tình huống)      |                                   |
 |    +----------------------------+                                   |
 +--------------------------------------------------------+
-
+```
 **Giải thích sơ đồ:**
 Sensor Data Processing: Xử lý dữ liệu đầu vào từ các cảm biến, như camera, microphone, cảm biến môi trường, để có thể sử dụng trong các bước tiếp theo của hệ thống.
 Feature Extraction: Trích xuất các đặc trưng quan trọng từ dữ liệu thô, ví dụ như các đặc trưng hình ảnh, âm thanh hoặc cảm giác môi trường, để giúp hệ thống hiểu rõ hơn về các yếu tố trong môi trường.

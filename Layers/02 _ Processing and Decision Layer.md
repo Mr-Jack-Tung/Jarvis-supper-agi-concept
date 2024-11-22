@@ -77,7 +77,7 @@ Các blocks trong Tầng Xử Lý và Quyết Định giúp hệ thống AGI x�
 ### Sơ đồ quan hệ giữa các khối chức năng
 
 Dưới đây là sơ đồ quan hệ giữa các khối chức năng trong Tầng Xử Lý và Quyết Định (Processing and Decision Layer), bao gồm cả các khối bổ sung, được mô tả bằng giao diện text:
-
+```
 +----------------------------------------------------------+
 |             Tầng Xử Lý và Quyết Định (Processing and     |
 |                        Decision Layer)                  |
@@ -119,7 +119,7 @@ Dưới đây là sơ đồ quan hệ giữa các khối chức năng trong Tầ
 |    | thời gian thực)               |                      |
 |    +-------------------------------+                      |
 +----------------------------------------------------------+
-
+```
 **Giải thích sơ đồ:**
 Data Preprocessing: Là bước đầu tiên trong việc xử lý dữ liệu đầu vào để chuẩn bị cho các thuật toán phân tích và ra quyết định tiếp theo. Nó bao gồm các kỹ thuật tiền xử lý dữ liệu như làm sạch dữ liệu, chuẩn hóa, hoặc xử lý thiếu dữ liệu.
 Cognitive Modeling: Mô phỏng quá trình nhận thức của con người để tạo ra các quyết định và hành động thông minh, bao gồm việc hiểu các thông tin môi trường và xây dựng các chiến lược hành động.

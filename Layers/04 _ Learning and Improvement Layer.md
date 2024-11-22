@@ -81,7 +81,7 @@ Tầng Học và Cải Tiến của hệ thống Siêu trí tuệ AGI bao gồm 
 ### Sơ đồ quan hệ giữa các khối chức năng
 
 Dưới đây là sơ đồ quan hệ giữa các khối chức năng trong Tầng Học và Cải Tiến (Learning and Improvement Layer), bao gồm cả các khối bổ sung, được mô tả bằng giao diện text:
-
+```
 +-----------------------------------------------------------+
 |         Tầng Học và Cải Tiến (Learning and Improvement)   |
 +-----------------------------------------------------------+
@@ -115,7 +115,7 @@ Dưới đây là sơ đồ quan hệ giữa các khối chức năng trong Tầ
 |    | (Tinh chỉnh mô hình)                |                              |
 |    +-------------------------------------+                              |
 +-----------------------------------------------------------+
-
+```
 Giải thích sơ đồ:
 Supervised Learning (Học có giám sát):
 Hệ thống học từ các dữ liệu đã gán nhãn, giúp xây dựng các mô hình có thể phân loại hoặc dự đoán chính xác dựa trên dữ liệu đầu vào đã được định nghĩa.

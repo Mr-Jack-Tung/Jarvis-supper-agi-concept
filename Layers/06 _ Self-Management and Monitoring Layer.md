@@ -74,7 +74,7 @@ Tầng Tự Quản Lý và Giám Sát giúp hệ thống Siêu trí tuệ AGI du
 ### Sơ đồ quan hệ giữa các khối chức năng
 
 Dưới đây là sơ đồ quan hệ giữa các khối chức năng trong Tầng Tự Quản Lý và Giám Sát (Self-Management and Monitoring Layer), bao gồm cả các khối bổ sung, được mô tả bằng giao diện text:
-
+```
 +--------------------------------------------------------------+
 |     Tầng Tự Quản Lý và Giám Sát (Self-Management and Monitoring) |
 +--------------------------------------------------------------+
@@ -108,7 +108,7 @@ Dưới đây là sơ đồ quan hệ giữa các khối chức năng trong Tầ
 |    | (Gỡ lỗi và xử lý sự cố hệ thống)           |           |
 |    +---------------------------------------------+           |
 +--------------------------------------------------------------+
-
+```
 Giải thích sơ đồ:
 System Health Monitoring (Theo dõi sức khỏe hệ thống):
 Theo dõi tình trạng sức khỏe và tài nguyên hệ thống (CPU, bộ nhớ, ổ đĩa, mạng, v.v.) để đảm bảo rằng hệ thống hoạt động bình thường và hiệu quả.

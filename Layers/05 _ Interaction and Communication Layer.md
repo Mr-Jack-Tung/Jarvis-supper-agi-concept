@@ -81,7 +81,7 @@ Tầng Tương Tác và Giao Tiếp của hệ thống Siêu trí tuệ AGI giú
 ### Sơ đồ quan hệ giữa các khối chức năng
 
 Dưới đây là sơ đồ quan hệ giữa các khối chức năng trong Tầng Tương Tác và Giao Tiếp (Interaction and Communication Layer), bao gồm cả các khối bổ sung, được mô tả bằng giao diện text:
-
+```
 +---------------------------------------------------------------+
 |    Tầng Tương Tác và Giao Tiếp (Interaction and Communication) |
 +---------------------------------------------------------------+
@@ -109,7 +109,7 @@ Dưới đây là sơ đồ quan hệ giữa các khối chức năng trong Tầ
 |    | (Tương tác cá nhân hóa)                     |    | (Điều chỉnh cảm xúc và đồng cảm)||
 |    +---------------------------------------------+    +---------------------------------+|
 +---------------------------------------------------------------+
-
+```
 Giải thích sơ đồ:
 Natural Language Understanding (NLU) (Hiểu ngôn ngữ tự nhiên):
 Hệ thống hiểu được ngôn ngữ tự nhiên của con người, bao gồm việc phân tích cú pháp, ngữ nghĩa và các yếu tố ngữ cảnh để hiểu chính xác thông tin người dùng muốn truyền đạt.

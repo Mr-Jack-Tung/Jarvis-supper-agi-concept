@@ -53,7 +53,7 @@ Tầng Cộng Tác và Tương Tác Nhóm là yếu tố quan trọng trong vi�
 ### Sơ đồ quan hệ giữa các khối chức năng
 
 Dưới đây là sơ đồ quan hệ giữa các khối trong Tầng Cộng Tác và Tương Tác Nhóm (Collaboration and Team Interaction Layer) được mô tả bằng giao diện text:
-
+```
 +------------------------------------------------------------+
 |    Tầng Cộng Tác và Tương Tác Nhóm (Collaboration and Team Interaction Layer)   |
 +------------------------------------------------------------+
@@ -93,7 +93,7 @@ Dưới đây là sơ đồ quan hệ giữa các khối trong Tầng Cộng Tá
 |    | (Giải quyết xung đột trong cộng tác nhóm hoặc giữa các hệ thống) |    |
 |    +--------------------------------------------------+    |
 +------------------------------------------------------------+
-
+```
 Giải thích sơ đồ:
 Collaborative Problem Solving (Giải quyết vấn đề theo nhóm):
 Khối này chịu trách nhiệm giúp các hệ thống hợp tác để giải quyết các vấn đề phức tạp. Các hệ thống khác nhau có thể đưa ra các giải pháp khác nhau và phối hợp với nhau để tìm ra giải pháp tối ưu.

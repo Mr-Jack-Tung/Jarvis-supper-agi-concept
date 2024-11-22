@@ -112,7 +112,7 @@ Các Blocks trên giúp tạo ra nền tảng mạnh mẽ cho hệ thống Siêu
 ### Sơ đồ quan hệ giữa Tầng
 
 Dưới đây là sơ đồ quan hệ giữa các layers và các khối chức năng chính của hệ thống Siêu trí tuệ AGI, được mô tả bằng giao diện text:
-
+```
 +---------------------------------------------------------------+
 |                       Tầng Nhận Thức (Perception Layer)       |
 |                                                               |
@@ -304,7 +304,7 @@ Dưới đây là sơ đồ quan hệ giữa các layers và các khối chức 
 |  | Monitoring             |  |                            |   |
 |  +------------------------+  +----------------------------+   |
 +---------------------------------------------------------------+
-
+```
 Giải thích sơ đồ:
 Các Layers: Mỗi tầng (layer) của hệ thống được phân chia thành các khối chức năng (blocks) riêng biệt. Các khối trong một tầng cùng làm việc với nhau để hoàn thành mục tiêu của tầng đó.
 Quan hệ giữa các Layers: Các tầng này tương tác với nhau thông qua các đầu vào và đầu ra, ví dụ, dữ liệu cảm nhận từ Tầng Nhận Thức sẽ được xử lý và quyết định trong Tầng Xử Lý và Quyết Định, và sau đó tri thức có thể được lưu trữ trong Tầng Lưu Trữ và Quản Lý Tri Thức. Mỗi tầng đều phụ thuộc vào các tầng trước đó để thực hiện các chức năng của mình một cách chính xác và hiệu quả.

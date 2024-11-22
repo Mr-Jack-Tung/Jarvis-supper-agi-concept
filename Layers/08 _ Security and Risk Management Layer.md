@@ -66,7 +66,7 @@ Tầng An Ninh và Quản Lý Rủi Ro là yếu tố quan trọng trong việc 
 ### Sơ đồ quan hệ giữa các khối chức năng
 
 Dưới đây là sơ đồ quan hệ giữa các khối chức năng trong Tầng An Ninh và Quản Lý Rủi Ro (Security and Risk Management Layer), bao gồm cả các khối bổ sung, được mô tả bằng giao diện text:
-
+```
 +---------------------------------------------------------------+
 |    Tầng An Ninh và Quản Lý Rủi Ro (Security and Risk Management Layer) |
 +---------------------------------------------------------------+
@@ -106,7 +106,7 @@ Dưới đây là sơ đồ quan hệ giữa các khối chức năng trong Tầ
 |    | (Quản lý quyền truy cập và xác thực người dùng)   |      |
 |    +---------------------------------------------------+      |
 +---------------------------------------------------------------+
-
+```
 Giải thích sơ đồ:
 Threat Detection and Prevention (Phát hiện và ngăn chặn các mối đe dọa đối với hệ thống):
 Khối này chịu trách nhiệm phát hiện các mối đe dọa bảo mật, bao gồm các cuộc tấn công mạng, virus, phần mềm độc hại, và các hành động xâm nhập trái phép vào hệ thống.

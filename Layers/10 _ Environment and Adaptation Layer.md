@@ -53,7 +53,7 @@ Tầng Môi Trường và Thích Ứng cung cấp các cơ chế và công cụ 
 ### Sơ đồ quan hệ giữa các khối chức năng
 
 Dưới đây là sơ đồ quan hệ giữa các khối trong Tầng Môi Trường và Thích Ứng (Environment and Adaptation Layer) được mô tả bằng giao diện text:
-
+```
 +-------------------------------------------------------------+
 |    Tầng Môi Trường và Thích Ứng (Environment and Adaptation Layer)  |
 +-------------------------------------------------------------+
@@ -93,7 +93,7 @@ Dưới đây là sơ đồ quan hệ giữa các khối trong Tầng Môi Trư�
 |    | (Mô phỏng các kịch bản môi trường để kiểm tra phản ứng của hệ thống) |   |
 |    +-----------------------------------------------------+   |
 +-------------------------------------------------------------+
-
+```
 Giải thích sơ đồ:
 Environmental Sensing and Analysis (Cảm nhận và phân tích môi trường):
 Hệ thống thu thập dữ liệu từ các cảm biến môi trường (cảm biến nhiệt độ, độ ẩm, ánh sáng, âm thanh, v.v.) để cảm nhận và phân tích tình trạng của môi trường xung quanh.

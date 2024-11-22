@@ -54,7 +54,7 @@ Tầng Đạo Đức và Trách Nhiệm là một phần không thể thiếu tr
 ### Sơ đồ quan hệ giữa các khối chức năng
 
 Dưới đây là sơ đồ quan hệ giữa các khối chức năng trong Tầng Đạo Đức và Trách Nhiệm (Ethics and Accountability Layer), bao gồm cả các khối bổ sung, được mô tả bằng giao diện text:
-
+```
 +---------------------------------------------------------------+
 |   Tầng Đạo Đức và Trách Nhiệm (Ethics and Accountability Layer) |
 +---------------------------------------------------------------+
@@ -94,7 +94,7 @@ Dưới đây là sơ đồ quan hệ giữa các khối chức năng trong Tầ
 |    | (Bảo vệ quyền riêng tư và bảo mật dữ liệu)         |      |
 |    +---------------------------------------------------+      |
 +---------------------------------------------------------------+
-
+```
 Giải thích sơ đồ:
 Ethical Guidelines Enforcement (Đảm bảo các quyết định tuân thủ nguyên tắc đạo đức):
 Đảm bảo tất cả các hành động và quyết định của hệ thống đều tuân thủ các nguyên tắc đạo đức đã được xác định từ trước, ví dụ như công bằng, minh bạch, và không phân biệt.
