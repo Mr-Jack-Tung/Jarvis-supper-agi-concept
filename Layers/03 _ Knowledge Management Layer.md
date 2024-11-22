@@ -74,7 +74,7 @@ Các blocks trong Tầng Lưu Trữ và Quản Lý Tri Thức đóng vai trò x�
 ### Sơ đồ quan hệ giữa các khối chức năng
 
 Dưới đây là sơ đồ quan hệ giữa các khối chức năng trong Tầng Lưu Trữ và Quản Lý Tri Thức (Knowledge Management Layer), bao gồm cả các khối bổ sung, được mô tả bằng giao diện text:
-
+```
 +--------------------------------------------------------------+
 |            Tầng Lưu Trữ và Quản Lý Tri Thức (Knowledge       |
 |                          Management Layer)                   |
@@ -109,6 +109,7 @@ Dưới đây là sơ đồ quan hệ giữa các khối chức năng trong Tầ
 |    | (Trừu tượng hóa và khái quát hóa) |                        |
 |    +-----------------------------------+                        |
 +--------------------------------------------------------------+
+```
 Giải thích sơ đồ:
 Knowledge Base Construction (Xây dựng cơ sở tri thức):
 Xây dựng và tổ chức một kho tri thức chứa các thông tin cơ bản, các quy tắc, sự kiện và mối quan hệ quan trọng để hệ thống có thể sử dụng và phát triển.
