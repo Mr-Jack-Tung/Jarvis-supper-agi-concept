@@ -1,6 +1,6 @@
 # J.A.R.V.I.S Supper AGI - concept & planning
 - Author: Mr.Jack & ChatGPT-4o-mini
-- Start Date: Thu 21 Nov 224
+- Start Date: Thu 21 Nov 2o24
 
 ### Why J.A.R.V.I.S Name?
 - J.A.R.V.I.S.:- Stands for "Just A Rather Very Intelligent System."- A fictional artificial intelligence character in the Marvel Cinematic Universe, created by Tony Stark (Iron Man).- J.A.R.V.I.S. assists Stark in various tasks, including managing his home, operating his Iron Man suits, and providing tactical support during battles.- Represents a highly advanced AI with sophisticated capabilities, including natural language processing and machine learning.  
